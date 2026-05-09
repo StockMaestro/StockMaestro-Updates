@@ -1,5 +1,5 @@
 {
-  "version": "4.0.0",
+  "version": "4.0.1",
   "url_zip": "https://github.com/StockMaestro/StockMaestro-Updates/releases/download/v4.0.0/StockMaestro_v4.0.0.zip",
   "changelog": "Mejoras en tickets, folios secuenciales y búsqueda de clientes en checkout."
 }
